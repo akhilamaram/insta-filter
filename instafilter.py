@@ -1,4 +1,5 @@
 #Import Image from PIL
+import os
 from PIL import Image
 
 #Load Images into Objects
